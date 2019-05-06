@@ -79,6 +79,8 @@ There are 2 themes-related services:
 
  - `frontend.reload_themes`: reloads theme configuration from your `configuration.yaml` file.
  - `frontend.set_theme(name)`: sets backend-preferred theme name.
+ 
+(Automations will only work if "Backend-selected" in Theme selection - see below)
 
 Example in automation:
 
